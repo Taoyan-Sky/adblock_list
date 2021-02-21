@@ -1,0 +1,2 @@
+# nextdns_whitelist
+NextDNS
